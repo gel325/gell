@@ -1,0 +1,349 @@
+header .video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+  }
+  article,
+  aside,
+  details,
+  figcaption,
+  figure,
+  footer,
+  header,
+  hgroup,
+  menu,
+  nav,
+  header .section {
+    display: block;
+  }
+  
+  ol,
+  header .ul {
+    list-style: none;
+  }
+  header .blockquote,
+  q {
+    quotes: none;
+  }
+  blockquote:before,
+  blockquote:after,
+  q:before,
+  header q:after {
+    content: "";
+    content: none;
+  }
+  header .table {
+    border-spacing: 0;
+  }
+  header .body {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  header .search-box {
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 960px;
+    position: relative;
+    top: 350px;
+    left: 50px;
+    padding-right:50px;
+  
+  }
+  header .search-input {
+    /* background-color: blue; */
+    display: flex;
+    width: 50%;
+  }
+  header .search-input input {
+    width: 100%;
+    display: flex;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 0px 10px 10px;
+    background-color: rgb(100, 100, 100);
+    font-size: 14px;
+    font-weight: lighter;
+    color: white;
+    box-shadow: inset 1px 1px 15px 2px rgb(55, 55, 55);
+  }
+  header .search-input input::placeholder {
+    color: rgb(200, 200, 200);
+    text-transform: capitalize;
+    word-spacing: 2px;
+  }
+  header .search-btn {
+    width: 100%;
+    max-width: 45px;
+    display: flex;
+    align-items: center;
+    opacity: 1;
+  
+    /* background-color: red; */
+  }
+  header .search-btn button {
+    position: relative;
+    right: 55px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    outline: none;
+    border: none;
+    border-radius: 100%;
+    padding: 5px 5px;
+    margin: auto;
+    box-shadow: 0px 0px 18px 0.5px;
+    cursor: pointer;
+  }
+  header .search-btn button:active {
+    background-color: rgb(205, 205, 205);
+  }
+  header .search-btn ion-icon {
+    color: orange;
+    font-weight: 900;
+    font-size: 15px;
+  }
+  @media (max-width: 800px) {
+    .search-box {
+      width: 100%;
+      max-width: 760px;
+    }
+  }
+  @media (max-width: 560px) {
+    .search-box {
+      width: 100%;
+      max-width: 480px;
+    }
+  }
+  @media (max-width: 300px) {
+    .search-box {
+      width: 100%;
+      max-width: 250px;
+    }
+    .search-btn {
+      opacity: 0;
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  .heads body {
+    font: normal 16px/26px system-ui, Roboto, Arial, sans-serif;
+    background: #fefefe;
+    color: #2a3744;
+    margin: 0;
+    padding: 0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: none;
+    overflow-x: hidden;
+  }
+  
+  .heads {
+    background: #282828;
+    position: relative;
+    font-family: system-ui, Roboto, sans-serif;
+    min-height: 75px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: -54px;
+    z-index: 2;
+  }
+  
+  .heads .logo {
+    height: 24px;
+  }
+  
+  .heads a {
+    color: #0085b6;
+    text-decoration: none;
+    border: none;
+  }
+  
+  .heads .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 24px 24px 0px;
+    width: 100%;
+  }
+  
+  .heads .search-bar {
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+  }
+  
+  .heads .search-bar input {
+    width: 50%;
+    min-width: 300px;
+    padding: 12px 24px;
+    border-radius: 24px;
+    font-size: 16px;
+    border: 0px;
+    outline: none;
+  }
+  
+  .heads .search-bar [list]::-webkit-list-button,
+  .heads .search-bar [list]::-webkit-calendar-picker-indicator {
+    display: none !important;
+  }
+  
+  .heads .search-display {
+    text-align: center;
+  }
+  
+  .heads .card-header__title {
+    font-weight: 700;
+    font-size: 14px;
+    color: #8fa6b3;
+  }
+  
+  .heads .posts-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 12px 0;
+  }
+  
+  .heads .post {
+    position: relative;
+    min-width: 300px;
+    flex: 0 0 25%;
+    border: 1px solid #e1e8ed;
+    border-radius: 4px;
+    min-height: 300px;
+    height: auto;
+  }
+  
+  .heads .post-title {
+    font: 700 18px/1.4em system-ui, Roboto, Arial, sans-serif;
+    color: #4a4a4a;
+    margin-top: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .heads .post-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+  }
+  
+  .heads .post-content {
+    padding: 16px;
+  }
+  
+  .heads .post-preview {
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    border-bottom: 1px solid #e1e8ed;
+    line-height: 0;
+    height: 200px;
+  }
+  
+  .heads .post-tag {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 0 8px;
+    color: #717171;
+    border: 1px solid #9b9b9b;
+    border-radius: 25px;
+    white-space: nowrap;
+  }
+  
+  .heads .filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 32px 0;
+    border-top: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+    margin-bottom: 32px;
+  }
+  
+  .heads .filter-button {
+    transition: background-color 200ms, color 200ms;
+    background-color: transparent;
+    font: inherit;
+    cursor: pointer;
+    display: inline-block;
+    padding: 0 8px;
+    color: #717171;
+    border: 1px solid #9b9b9b;
+    border-radius: 25px;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+  
+  .heads .filter-button:hover {
+    background-color: #f3f3f3;
+    color: #3a3a3a;
+  }
+  
+  .heads .filter-button.is-active {
+    background-color: #0085b6;
+    border-color: #0085b6;
+    color: #fff;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

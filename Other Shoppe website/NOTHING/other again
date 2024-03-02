@@ -1,0 +1,578 @@
+    <meta charset="UTP-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elida Fashion Wear Ecommerce Online Shop</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<header>
+
+    <input type="checkbox" name="" id="toggler">
+    <label for="toggler" class="fas fa-bars"></label>
+
+<a href="#" class="logo">Elida Fashion Wear<span>.</span></a>
+
+<nav class="navbar">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="review">Review</a>
+    <a href="contacts">Contact</a>
+</nav>
+
+<div class="icons">
+    <a href="#" class="fas fa-heart"></a>
+    <a href="#" class="fas fa-shopping-cart"></a>
+    <a href="#" class="fas fa-heart"></a>
+</div>
+
+</header>
+</body>
+</html>
+
+
+
+
+<section class="container">
+    <div class="cards grid">
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$499.00</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+      
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 1.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$268.00</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+      
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 2.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$371.15</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 3.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$321.75</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 4.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$507.00</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 5.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$353.56</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 10.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$454.00</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 7.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$767.01</h1>
+        <p class="card-text">jjjjjjjjjjjjjjjj dnsjkdhakjhkkfhjhf jhfjkshjkf hkjhsjdfjshutywrhrj hjfhsudfhol</p>
+      </div>
+    </div>
+      
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 8.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$266.81</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+
+      <div class="card">
+        <div class="img-box">
+          <img src="images/Gown 9.jpg" alt="Gown" />
+        </div>
+        <div class="card-content">
+        <h1 class="card-heading">$500.29</h1>
+        <p class="card-text">itooo</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="img-box">
+        <img src="images/Jewelry 1.jpg" alt="Gown" />
+      </div>
+      <div class="card-content">
+      <h1 class="card-heading">$150 Million</h1>
+      <p class="card-text">itooo</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="img-box">
+      <img src="images/Jewelry 2.jpg" alt="Gown" />
+    </div>
+    <div class="card-content">
+    <h1 class="card-heading">$1250.00</h1>
+    <p class="card-text">itooo</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 3.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$150 Million</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 4.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$18.3 Million</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 5.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$250000.00</h1>
+  <p class="card-text">Lorraine Schwartz: A Journey Through Gems</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 6.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$131.93</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 7.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$56.00</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 8.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$122.66</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 9.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$10.04</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Jewelry 15.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$2695.00</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 1.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$62.23</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 2.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$380.44</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 3.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$2488.00</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 4.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$6.47</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 5.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$485.30</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 6.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$44.99</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 7.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$171.00</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 8.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$5199.00</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 9.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$23.38</h1>
+  <p class="card-text">itooo</p>
+</div>
+</div>
+
+<div class="card">
+  <div class="img-box">
+    <img src="images/Bag 10.jpg" alt="Gown" />
+  </div>
+  <div class="card-content">
+  <h1 class="card-heading">$8499.00</h1>
+  <p class="card-text">itooo</p>
+
+</div>
+</div>
+
+body{
+    font-family: 'lato', sans-serif;
+    font-size: 1rem;
+    display: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 10rem 0;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.about .row{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding: 2rem 05;
+    padding-bottom: 3rem;
+}
+
+.about .row .img-container {
+    width:100%;
+    border: 1.5rem solid #fff;
+    border-radius: .5rem;
+    box-shadow: 0.5rem 1rem rgba(0,0,0,.1);
+    height: 100%;
+    object-fit: cover;
+}
+
+.about .row .img-container h3{
+    position: absolute;
+    top:50%; transform: translateY(-50%);
+    font-size: 3rem;
+    background:#fff;
+    width: 100%;
+    padding:1rem 2rem;
+}
+
+.about .row .content{
+    flex:1 1 40rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Century;
+  box-sizing: border-box;
+  font-family: 'lato', sans-serif;
+}
+
+ul{
+  float: right;
+  list-style-type: none;
+  margin-top: 95px;
+  min-height: 0px;
+  min-width: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  font-size: 17px;
+}
+
+ul li{
+  display: inline-block;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #ffffff;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  transition: 0.5 ease;
+}
+
+ul li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+ul li.active a{
+  background-color: #fff;
+  color: #000;
+}
+
+.logo img{
+  float: left;
+  width: 200px;
+  margin-left: 20px;
+  margin-right: 0px;
+  margin-top: 40px;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.main{
+  max-width: 5000px;
+  margin: 0px;
+  padding-right: 0px;
+}
+
+.title{
+  position: top;
+  text-align: left;
+  margin-bottom: 30px;
+  margin: center;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  left: 0%;
+  right: 0%;
+}
+
+.title h1{
+  color:#fff;
+  font-size: 60px;
+  padding-right: 0%;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+section{
+  padding:2rem 9%;
+}
+
+.heading{
+  text-align: center;
+  font-size: 4rem;
+  color:#333;
+  padding:1rem;
+  margin:2rem 0;
+  background: rgba(255, 51, 153,.05);
+}
+
+.heading span{
+  color:var(--gold)
+}
+
+.btn{
+  display: inline-block;
+  margin-top: 1rem;
+  border-radius: 5rem;
+  background: #333;
+  color: #fff;
+  padding:.9rem 3.5rem;
+  cursor: pointer;
+  font-size: 1.7rem;
+}
+
+.btn:hover{
+  background:var(--gold);
+}
+
+.img.box img{
+  display: block;
+  width: 80%;
+  height: 30rem;
+  object-fit: cover;
+}
+
+img{
+  height: 215px;
+  width: 215px;
+  padding-bottom: 15%;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-content: center;
+  grid-gap: 2rem;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  padding-top: 25px;
+}
+
+.card{
+  display: block;
+  overflow: hidden;
+  border-radius: 0.6rem;
+  box-shadow: 0 0.5rem 1rem rgba(195, 193, 193, 0.7);
+  cursor: pointer;
+  transition: 0.2s;
+  position: relative;
+}
+
+.card-content{
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.5);
+  bottom: 0;
+  color: #000000;
+  width: 100%;
+  height: 16%;
+  padding: 1.7rem 0;
+  padding-top: 1rem;
+  overflow: hidden;
+  transition: 0.7s;
+}
+
+.card-content h1{
+  font-size: 1.3rem;
+  font-weight: 15;
+  text-transform: capitalize;
+  text-align: left;
+  margin-left: 3%;
+}
+
+.card-content p{
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-align: left;
+  line-height: 1.5rem;
+  padding: 1.1rem;
+  margin: 0%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-content:hover{
+  height: 60%;
+  transition: 0.7s;
+}
